@@ -1,0 +1,654 @@
+{
+  "customers": [
+  {
+    "id": "1",
+    "username": "Scott Henry",
+    "email": "ScottHenry@jourrapide.com",
+    "phone": "704-629-9535",
+    "rating": 4.4,
+    "walletBalance": 7523,
+    "joiningDate": "06 Oct, 2019",
+    "title": "New Admin Design",
+    "description": "It will be as simple as Occidental",
+    "status": "Completed",
+    "date": "15 Oct, 19",
+    "comments": 214,
+    "likes": 4,
+    "team": [
+      {
+        "name": "Scott Henry",
+        "avatar": "https://blog.texasbar.com/files/2013/01/AmandaHouston_smaller1.jpg"
+      },
+      {
+        "name": "Cody Menendez",
+        "avatar": "https://r2.starryai.com/results/1005156662/01ea57ea-66bd-4bed-a467-11bbdedb43ea.webp"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51rttY7a+9L.png"
+  },
+  {
+    "id": "2",
+    "username": "Alice Johnson",
+    "email": "AliceJohnson@example.com",
+    "phone": "212-555-1234",
+    "rating": 4.7,
+    "walletBalance": 8342,
+    "joiningDate": "12 Nov, 2018",
+    "title": "Marketing Strategy",
+    "description": "Innovative approach to market expansion",
+    "status": "In Progress",
+    "date": "22 Oct, 19",
+    "comments": 134,
+    "likes": 8,
+    "team": [
+      {
+        "name": "Alice Johnson",
+        "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "name": "Bob Smith",
+        "avatar": "https://randomuser.me/api/portraits/men/45.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51HgZsM2IzL.png"
+  },
+  {
+    "id": "3",
+    "username": "Bob Smith",
+    "email": "BobSmith@webmail.com",
+    "phone": "303-555-6789",
+    "rating": 4.2,
+    "walletBalance": 6031,
+    "joiningDate": "15 Feb, 2020",
+    "title": "Product Launch",
+    "description": "Launching our new flagship product",
+    "status": "Completed",
+    "date": "05 Nov, 19",
+    "comments": 289,
+    "likes": 12,
+    "team": [
+      {
+        "name": "Charlie Brown",
+        "avatar": "https://randomuser.me/api/portraits/men/46.jpg"
+      },
+      {
+        "name": "Diana Prince",
+        "avatar": "https://randomuser.me/api/portraits/women/46.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51s9eVv8uQL.png"
+  },
+  {
+    "id": "4",
+    "username": "Charlie Brown",
+    "email": "CharlieBrown@company.org",
+    "phone": "415-555-7890",
+    "rating": 4.5,
+    "walletBalance": 7238,
+    "joiningDate": "24 Jan, 2019",
+    "title": "User Experience Redesign",
+    "description": "Revamping the user interface and experience",
+    "status": "In Progress",
+    "date": "15 Nov, 19",
+    "comments": 76,
+    "likes": 5,
+    "team": [
+      {
+        "name": "Emily Davis",
+        "avatar": "https://randomuser.me/api/portraits/women/47.jpg"
+      },
+      {
+        "name": "Frank Lee",
+        "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51k5I1p2RJL.png"
+  },
+  {
+    "id": "5",
+    "username": "Diana Prince",
+    "email": "DianaPrince@service.com",
+    "phone": "626-555-3210",
+    "rating": 4.3,
+    "walletBalance": 8921,
+    "joiningDate": "03 Mar, 2017",
+    "title": "Sales Campaign",
+    "description": "Targeted sales campaign for Q4",
+    "status": "Completed",
+    "date": "28 Nov, 19",
+    "comments": 193,
+    "likes": 7,
+    "team": [
+      {
+        "name": "Grace Williams",
+        "avatar": "https://randomuser.me/api/portraits/women/48.jpg"
+      },
+      {
+        "name": "Hank Green",
+        "avatar": "https://randomuser.me/api/portraits/men/48.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51k3mG16TWL.png"
+  },
+  {
+    "id": "6",
+    "username": "Emily Davis",
+    "email": "EmilyDavis@webmail.com",
+    "phone": "202-555-9876",
+    "rating": 4.6,
+    "walletBalance": 6578,
+    "joiningDate": "29 Dec, 2019",
+    "title": "Customer Feedback Analysis",
+    "description": "Analyzing feedback from recent surveys",
+    "status": "In Progress",
+    "date": "10 Dec, 19",
+    "comments": 122,
+    "likes": 6,
+    "team": [
+      {
+        "name": "Isabel Turner",
+        "avatar": "https://randomuser.me/api/portraits/women/49.jpg"
+      },
+      {
+        "name": "Jack Daniels",
+        "avatar": "https://randomuser.me/api/portraits/men/49.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51Jf3I9N3rL.png"
+  },
+  {
+    "id": "7",
+    "username": "Frank Lee",
+    "email": "FrankLee@company.com",
+    "phone": "707-555-3456",
+    "rating": 4.1,
+    "walletBalance": 5412,
+    "joiningDate": "22 Jul, 2020",
+    "title": "Annual Report",
+    "description": "Compiling the annual financial report",
+    "status": "Completed",
+    "date": "18 Dec, 19",
+    "comments": 155,
+    "likes": 9,
+    "team": [
+      {
+        "name": "Kelly Parker",
+        "avatar": "https://randomuser.me/api/portraits/women/50.jpg"
+      },
+      {
+        "name": "Liam Thomas",
+        "avatar": "https://randomuser.me/api/portraits/men/50.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51eK4jU6cUL.png"
+  },
+  {
+    "id": "8",
+    "username": "Grace Williams",
+    "email": "GraceWilliams@company.net",
+    "phone": "305-555-4567",
+    "rating": 4.8,
+    "walletBalance": 8321,
+    "joiningDate": "18 Aug, 2018",
+    "title": "New Marketing Tools",
+    "description": "Implementing new tools for marketing analysis",
+    "status": "In Progress",
+    "date": "24 Dec, 19",
+    "comments": 104,
+    "likes": 11,
+    "team": [
+      {
+        "name": "Monica Bellucci",
+        "avatar": "https://randomuser.me/api/portraits/women/51.jpg"
+      },
+      {
+        "name": "Nicolas Cage",
+        "avatar": "https://randomuser.me/api/portraits/men/51.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51G6VrbN4zL.png"
+  },
+  {
+    "id": "9",
+    "username": "Hank Green",
+    "email": "HankGreen@corporate.com",
+    "phone": "512-555-6789",
+    "rating": 4.2,
+    "walletBalance": 7200,
+    "joiningDate": "11 Apr, 2020",
+    "title": "Project Management System",
+    "description": "Developing a new project management tool",
+    "status": "Completed",
+    "date": "15 Jan, 20",
+    "comments": 189,
+    "likes": 10,
+    "team": [
+      {
+        "name": "Olivia Martinez",
+        "avatar": "https://randomuser.me/api/portraits/women/52.jpg"
+      },
+      {
+        "name": "Paul Walker",
+        "avatar": "https://randomuser.me/api/portraits/men/52.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51CkBdbQJ5L.png"
+  },
+  {
+    "id": "10",
+    "username": "Isabel Turner",
+    "email": "IsabelTurner@service.com",
+    "phone": "678-555-4321",
+    "rating": 4.6,
+    "walletBalance": 6547,
+    "joiningDate": "20 May, 2018",
+    "title": "HR System Upgrade",
+    "description": "Upgrading our HR management system",
+    "status": "In Progress",
+    "date": "01 Feb, 20",
+    "comments": 132,
+    "likes": 8,
+    "team": [
+      {
+        "name": "Rita Ora",
+        "avatar": "https://randomuser.me/api/portraits/women/53.jpg"
+      },
+      {
+        "name": "Steve Jobs",
+        "avatar": "https://randomuser.me/api/portraits/men/53.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51Trd1Ejy5L.png"
+  },
+  {
+    "id": "11",
+    "username": "Jack Daniels",
+    "email": "JackDaniels@company.com",
+    "phone": "806-555-1234",
+    "rating": 4.3,
+    "walletBalance": 7199,
+    "joiningDate": "15 Jun, 2019",
+    "title": "Web Application Security",
+    "description": "Enhancing security measures for web applications",
+    "status": "Completed",
+    "date": "25 Feb, 20",
+    "comments": 115,
+    "likes": 7,
+    "team": [
+      {
+        "name": "Sophia Turner",
+        "avatar": "https://randomuser.me/api/portraits/women/54.jpg"
+      },
+      {
+        "name": "Tom Hardy",
+        "avatar": "https://randomuser.me/api/portraits/men/54.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51IsXulKXzL.png"
+  },
+  {
+    "id": "12",
+    "username": "Kelly Parker",
+    "email": "KellyParker@webmail.com",
+    "phone": "310-555-6789",
+    "rating": 4.5,
+    "walletBalance": 6085,
+    "joiningDate": "22 Sep, 2017",
+    "title": "Customer Retention Strategy",
+    "description": "Developing strategies to retain customers",
+    "status": "In Progress",
+    "date": "10 Mar, 20",
+    "comments": 142,
+    "likes": 9,
+    "team": [
+      {
+        "name": "Nancy Drew",
+        "avatar": "https://randomuser.me/api/portraits/women/55.jpg"
+      },
+      {
+        "name": "Oscar Isaac",
+        "avatar": "https://randomuser.me/api/portraits/men/55.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51G7XIxOLKL.png"
+  },
+  {
+    "id": "13",
+    "username": "Liam Thomas",
+    "email": "LiamThomas@company.org",
+    "phone": "404-555-9876",
+    "rating": 4.4,
+    "walletBalance": 7365,
+    "joiningDate": "11 Dec, 2018",
+    "title": "SEO Optimization",
+    "description": "Optimizing website for better search engine rankings",
+    "status": "Completed",
+    "date": "28 Mar, 20",
+    "comments": 189,
+    "likes": 12,
+    "team": [
+      {
+        "name": "Parker Smith",
+        "avatar": "https://randomuser.me/api/portraits/men/56.jpg"
+      },
+      {
+        "name": "Quinn Sullivan",
+        "avatar": "https://randomuser.me/api/portraits/women/56.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51LfM4FbqVL.png"
+  },
+  {
+    "id": "14",
+    "username": "Monica Bellucci",
+    "email": "MonicaBellucci@service.com",
+    "phone": "510-555-4321",
+    "rating": 4.6,
+    "walletBalance": 6890,
+    "joiningDate": "05 Jul, 2017",
+    "title": "Social Media Strategy",
+    "description": "Creating a strategy for social media presence",
+    "status": "In Progress",
+    "date": "15 Apr, 20",
+    "comments": 102,
+    "likes": 10,
+    "team": [
+      {
+        "name": "Robert Pattinson",
+        "avatar": "https://randomuser.me/api/portraits/men/57.jpg"
+      },
+      {
+        "name": "Samantha Green",
+        "avatar": "https://randomuser.me/api/portraits/women/57.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51H0aY5pmvL.png"
+  },
+  {
+    "id": "15",
+    "username": "Nicolas Cage",
+    "email": "NicolasCage@company.com",
+    "phone": "908-555-6789",
+    "rating": 4.3,
+    "walletBalance": 7612,
+    "joiningDate": "17 Nov, 2018",
+    "title": "Content Management System",
+    "description": "Developing a new CMS platform",
+    "status": "Completed",
+    "date": "01 May, 20",
+    "comments": 179,
+    "likes": 11,
+    "team": [
+      {
+        "name": "Tina Fey",
+        "avatar": "https://randomuser.me/api/portraits/women/58.jpg"
+      },
+      {
+        "name": "Ursula K. Le Guin",
+        "avatar": "https://randomuser.me/api/portraits/women/58.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51Pb6HpsW7L.png"
+  },
+  {
+    "id": "16",
+    "username": "Olivia Martinez",
+    "email": "OliviaMartinez@webmail.com",
+    "phone": "312-555-3456",
+    "rating": 4.7,
+    "walletBalance": 7923,
+    "joiningDate": "03 Oct, 2019",
+    "title": "Digital Transformation",
+    "description": "Transforming our digital infrastructure",
+    "status": "In Progress",
+    "date": "15 May, 20",
+    "comments": 121,
+    "likes": 13,
+    "team": [
+      {
+        "name": "Vin Diesel",
+        "avatar": "https://randomuser.me/api/portraits/men/59.jpg"
+      },
+      {
+        "name": "Will Smith",
+        "avatar": "https://randomuser.me/api/portraits/men/59.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51Lv5iL96LL.png"
+  },
+  {
+    "id": "17",
+    "username": "Paul Walker",
+    "email": "PaulWalker@service.com",
+    "phone": "213-555-7890",
+    "rating": 4.4,
+    "walletBalance": 6985,
+    "joiningDate": "12 Jun, 2018",
+    "title": "Cloud Migration",
+    "description": "Migrating our data to the cloud",
+    "status": "Completed",
+    "date": "01 Jun, 20",
+    "comments": 178,
+    "likes": 9,
+    "team": [
+      {
+        "name": "Xena Warrior",
+        "avatar": "https://randomuser.me/api/portraits/women/60.jpg"
+      },
+      {
+        "name": "Yannick Noah",
+        "avatar": "https://randomuser.me/api/portraits/men/60.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51I1D1m0uQL.png"
+  },
+  {
+    "id": "18",
+    "username": "Parker Smith",
+    "email": "ParkerSmith@company.com",
+    "phone": "617-555-1234",
+    "rating": 4.5,
+    "walletBalance": 7123,
+    "joiningDate": "10 Feb, 2019",
+    "title": "Cybersecurity Improvements",
+    "description": "Enhancing cybersecurity measures",
+    "status": "In Progress",
+    "date": "15 Jul, 20",
+    "comments": 133,
+    "likes": 8,
+    "team": [
+      {
+        "name": "Zoe Kravitz",
+        "avatar": "https://randomuser.me/api/portraits/women/61.jpg"
+      },
+      {
+        "name": "Aaron Paul",
+        "avatar": "https://randomuser.me/api/portraits/men/61.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51XlMI7CrLL.png"
+  },
+  {
+    "id": "19",
+    "username": "Quinn Sullivan",
+    "email": "QuinnSullivan@webmail.com",
+    "phone": "914-555-6789",
+    "rating": 4.6,
+    "walletBalance": 8240,
+    "joiningDate": "07 Mar, 2018",
+    "title": "AI Integration",
+    "description": "Integrating AI into our products",
+    "status": "Completed",
+    "date": "01 Aug, 20",
+    "comments": 145,
+    "likes": 10,
+    "team": [
+      {
+        "name": "Emma Watson",
+        "avatar": "https://randomuser.me/api/portraits/women/62.jpg"
+      },
+      {
+        "name": "Henry Cavill",
+        "avatar": "https://randomuser.me/api/portraits/men/62.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51D0tUBD-2L.png"
+  },
+  {
+    "id": "20",
+    "username": "Rita Ora",
+    "email": "RitaOra@company.net",
+    "phone": "303-555-4321",
+    "rating": 4.7,
+    "walletBalance": 6590,
+    "joiningDate": "20 Nov, 2019",
+    "title": "Blockchain Technology",
+    "description": "Exploring blockchain solutions",
+    "status": "In Progress",
+    "date": "15 Sep, 20",
+    "comments": 116,
+    "likes": 11,
+    "team": [
+      {
+        "name": "Jared Leto",
+        "avatar": "https://randomuser.me/api/portraits/men/63.jpg"
+      },
+      {
+        "name": "Kylie Minogue",
+        "avatar": "https://randomuser.me/api/portraits/women/63.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51QwDiDghWL.png"
+  },
+  {
+    "id": "21",
+    "username": "Steve Jobs",
+    "email": "SteveJobs@company.com",
+    "phone": "707-555-6789",
+    "rating": 4.8,
+    "walletBalance": 8100,
+    "joiningDate": "09 May, 2018",
+    "title": "Digital Wallet Integration",
+    "description": "Integrating digital wallets for easier transactions",
+    "status": "Completed",
+    "date": "01 Oct, 20",
+    "comments": 163,
+    "likes": 12,
+    "team": [
+      {
+        "name": "Daniel Craig",
+        "avatar": "https://randomuser.me/api/portraits/men/64.jpg"
+      },
+      {
+        "name": "Elena Gilbert",
+        "avatar": "https://randomuser.me/api/portraits/women/64.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51O6P2VXAzL.png"
+  },
+  {
+    "id": "22",
+    "username": "Tina Fey",
+    "email": "TinaFey@webmail.com",
+    "phone": "212-555-4321",
+    "rating": 4.4,
+    "walletBalance": 6932,
+    "joiningDate": "01 Jun, 2017",
+    "title": "Subscription Service Overhaul",
+    "description": "Redesigning our subscription service",
+    "status": "In Progress",
+    "date": "15 Oct, 20",
+    "comments": 130,
+    "likes": 8,
+    "team": [
+      {
+        "name": "Gordon Ramsay",
+        "avatar": "https://randomuser.me/api/portraits/men/65.jpg"
+      },
+      {
+        "name": "Holly Willoughby",
+        "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51t4y28ysSL.png"
+  },
+  {
+    "id": "23",
+    "username": "Ursula K. Le Guin",
+    "email": "UrsulaLeGuin@company.com",
+    "phone": "404-555-1234",
+    "rating": 4.5,
+    "walletBalance": 7120,
+    "joiningDate": "14 Sep, 2019",
+    "title": "E-Commerce Platform Upgrade",
+    "description": "Upgrading our e-commerce platform",
+    "status": "Completed",
+    "date": "01 Nov, 20",
+    "comments": 165,
+    "likes": 10,
+    "team": [
+      {
+        "name": "Natalie Portman",
+        "avatar": "https://randomuser.me/api/portraits/women/66.jpg"
+      },
+      {
+        "name": "Ryan Gosling",
+        "avatar": "https://randomuser.me/api/portraits/men/66.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51W5bE3hxPL.png"
+  },
+  {
+    "id": "24",
+    "username": "Vin Diesel",
+    "email": "VinDiesel@webmail.com",
+    "phone": "646-555-6789",
+    "rating": 4.3,
+    "walletBalance": 7245,
+    "joiningDate": "11 Jan, 2018",
+    "title": "Enterprise Resource Planning",
+    "description": "Implementing an ERP system",
+    "status": "In Progress",
+    "date": "15 Nov, 20",
+    "comments": 148,
+    "likes": 9,
+    "team": [
+      {
+        "name": "Alicia Keys",
+        "avatar": "https://randomuser.me/api/portraits/women/67.jpg"
+      },
+      {
+        "name": "Brad Pitt",
+        "avatar": "https://randomuser.me/api/portraits/men/67.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51M9HVN65iL.png"
+  },
+  {
+    "id": "25",
+    "username": "Will Smith",
+    "email": "WillSmith@company.com",
+    "phone": "213-555-9876",
+    "rating": 4.6,
+    "walletBalance": 6843,
+    "joiningDate": "22 Aug, 2019",
+    "title": "AI Chatbot Development",
+    "description": "Developing AI-powered chatbots",
+    "status": "Completed",
+    "date": "01 Dec, 20",
+    "comments": 137,
+    "likes": 10,
+    "team": [
+      {
+        "name": "Julia Roberts",
+        "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+      },
+      {
+        "name": "Kanye West",
+        "avatar": "https://randomuser.me/api/portraits/men/68.jpg"
+      }
+    ],
+    "icon": "https://m.media-amazon.com/images/I/51rUeJrJ8XL.png"
+  }
+]
+}
